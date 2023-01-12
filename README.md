@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kyle~
-- 👀 I’m big on outdoor adventures and 
+- 👀 I’m big on outdoor adventures and self-sustainability! 
 - 🌱 I’m currently mastering my foundation!! 
 - 💞️ I’m looking to collaborate on anything and everything! 
 - 📫 Email: akstarre@gmail.com Discord: Saucy Moss#8767
