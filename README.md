@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [starrettprojects.netlify.app](starrettprojects.netlify.app)
 
-- 💬 Ask me about **javascript, gsep, node**
+- 💬 Ask me about **javascript, React, next.js**
 
 - 📫 How to reach me **akstarre@gmail.com**
 
