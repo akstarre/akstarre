@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineer versed in javascript and building full-stack applications. With intimate knowledge of express, node.js, and mongodb I focus on building applications and websites for small businesses to help them grow and affordable costs! I'm always looking to collaborate on older or new technologies! I'm currently exploring newer frameworks like Next.js.
+I'm a software engineer versed in javascript and building full-stack applications. With intimate knowledge of express, node.js, and mongodb I focus on building applications and websites for small businesses to help them grow and affordable costs! I'm always looking to collaborate on older or new technologies! I'm currently exploring newer frameworks like Next.js. If you would like to chat or link up, schedule a coffee chat with my on my portfolio: https://starrettprojects.vercel.app/! 
 
 
 ## 🌐 Socials:
