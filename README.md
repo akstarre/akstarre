@@ -15,8 +15,6 @@ I'm a software engineer versed in JavaScript and building full-stack application
 ](https://github.com/akstarre/Coin-View)
 
 
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
