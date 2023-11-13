@@ -11,7 +11,7 @@ I'm a software engineer versed in JavaScript and building full-stack application
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akstarre&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akstarre&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # 👩🏻‍💻 Projects
-[![Coin-View](https://github.com/akstarre/Coin-View)![image](https://github.com/akstarre/akstarre/assets/121568866/4f27e600-6d1b-44d3-9f33-cc1afe43daab)
+![Coin-View](https://github.com/akstarre/Coin-View)![image](https://github.com/akstarre/akstarre/assets/121568866/4f27e600-6d1b-44d3-9f33-cc1afe43daab)
 
 
 
