@@ -1,5 +1,5 @@
 # About Me:
-I'm a software engineer versed in JavaScript and building full-stack applications. With intimate knowledge of react, express, node.js, and mongodb I focus on building applications and websites for small businesses to help them grow and affordable costs! I'm always looking to collaborate on older or new technologies! I'm currently exploring newer frameworks like Next.js. If you would like to chat or link up, schedule a coffee chat with me on my portfolio: https://starrettprojects.vercel.app/! 
+I actively develop project management software, enhancing user experience and functionality. Gained expertise in application efficiency using Redux and Redux-Thunk, as well as implementing rich-text editors with image upload capabilities and AWS integration.  My contributions lead to improved app maintainability and readability, significantly enhancing overall business efficiency and user satisfaction. 
 
 
 ## 🌐 Socials:
