@@ -1,6 +1,3 @@
-# About Me:
-I actively develop project management software, enhancing user experience and functionality. Gained expertise in application efficiency using Redux and Redux-Thunk, as well as implementing rich-text editors with image upload capabilities and AWS integration.  My contributions lead to improved app maintainability and readability, significantly enhancing overall business efficiency and user satisfaction. 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kyle-starrett/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/KyleStarrett1)
 
